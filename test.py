@@ -8,3 +8,4 @@ listdog.append(d1)
 print(listdog[0].name," ",listdog[0].color)
 listdog[0].color='trang'
 print(d1.name," ",d1.color)
+print('test')
